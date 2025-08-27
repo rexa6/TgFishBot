@@ -1,5 +1,6 @@
-API_ID = 25991574
-API_HASH = '412d550c0bea79a67629e461ca08fa54'
-BOT_TOKEN = '8395941202:AAHfbOcpq3RvpXR1HPbJRcEnPqj1bo4w8pQ'
-ADMIN_ID = [7668797506, 7958441197]
+API_ID = 12345678 #Тут берем эти данные my.telegram.org
+API_HASH = 'Твой HASH' #Тут берем эти данные my.telegram.org
+
+BOT_TOKEN = 'Токен Бота'
+ADMIN_ID = [Айди админов может быть не сколько через запятую ]
 SESSIONS_PER_PAGE = 5 
